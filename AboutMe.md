@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @18dhiraj
-- 🌱 I’m currently learning React and gaining a knowlege about backend
+- 🌱 Having a year of experience in ReactJS and React Native
 - 💞️ I’m looking to collaborate on frontend development
-- 📫 How to reach me on instagram which is '18_dhiraj'.
+- 📫 You can reach me on instagram '@18_dhiraj'.
