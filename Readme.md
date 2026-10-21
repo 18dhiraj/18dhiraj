@@ -18,12 +18,11 @@ I enjoy turning ideas into user-friendly digital experiences, writing clean and 
 
 I'm continuously improving my development skills and exploring technologies that help me build better applications.
 
-- ⚛️ Advanced React patterns and performance optimization
-- 📱 React Native internals, Fabric, JSI, and TurboModules
-- 🔔 Background tasks and push notifications
-- 🔌 Real-time applications using Socket.IO
-- ☕ Java and Spring Boot for backend development
-- 🏗️ Scalable application architecture and clean code practices
+- ⚛️ Advanced Frontend Engineering & Performance Optimization
+- 📱 Cross-Platform Mobile Architecture & Deep Native Internals
+- ☕ High-Throughput Backend Systems & Enterprise Java/Spring Boot
+- 🏗️ Scalable Distributed Systems & Clean Architectural Patterns
+- 🗄️ Event-Driven Architecture, Data Streaming & Caching Strategies
 
 ---
 
